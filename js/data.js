@@ -1,1 +1,36 @@
+// Datas de outubro 2025
+const octoberDates = [
+    { value: '2025-10-01', text: 'quarta-feira, 1 de outubro de 2025' },
+    { value: '2025-10-02', text: 'quinta-feira, 2 de outubro de 2025' },
+    { value: '2025-10-03', text: 'sexta-feira, 3 de outubro de 2025' },
+    { value: '2025-10-04', text: 'sábado, 4 de outubro de 2025' },
+    { value: '2025-10-05', text: 'domingo, 5 de outubro de 2025' },
+    { value: '2025-10-06', text: 'segunda-feira, 6 de outubro de 2025' },
+    { value: '2025-10-07', text: 'terça-feira, 7 de outubro de 2025' },
+    { value: '2025-10-08', text: 'quarta-feira, 8 de outubro de 2025' },
+    { value: '2025-10-09', text: 'quinta-feira, 9 de outubro de 2025' },
+    { value: '2025-10-10', text: 'sexta-feira, 10 de outubro de 2025' },
+    { value: '2025-10-11', text: 'sábado, 11 de outubro de 2025' },
+    { value: '2025-10-12', text: 'domingo, 12 de outubro de 2025' },
+    { value: '2025-10-13', text: 'segunda-feira, 13 de outubro de 2025' },
+    { value: '2025-10-14', text: 'terça-feira, 14 de outubro de 2025' },
+    { value: '2025-10-15', text: 'quarta-feira, 15 de outubro de 2025' },
+    { value: '2025-10-16', text: 'quinta-feira, 16 de outubro de 2025' },
+    { value: '2025-10-17', text: 'sexta-feira, 17 de outubro de 2025' },
+    { value: '2025-10-18', text: 'sábado, 18 de outubro de 2025' },
+    { value: '2025-10-19', text: 'domingo, 19 de outubro de 2025' },
+    { value: '2025-10-20', text: 'segunda-feira, 20 de outubro de 2025' },
+    { value: '2025-10-21', text: 'terça-feira, 21 de outubro de 2025' },
+    { value: '2025-10-22', text: 'quarta-feira, 22 de outubro de 2025' },
+    { value: '2025-10-23', text: 'quinta-feira, 23 de outubro de 2025' },
+    { value: '2025-10-24', text: 'sexta-feira, 24 de outubro de 2025' },
+    { value: '2025-10-25', text: 'sábado, 25 de outubro de 2025' },
+    { value: '2025-10-26', text: 'domingo, 26 de outubro de 2025' },
+    { value: '2025-10-27', text: 'segunda-feira, 27 de outubro de 2025' },
+    { value: '2025-10-28', text: 'terça-feira, 28 de outubro de 2025' },
+    { value: '2025-10-29', text: 'quarta-feira, 29 de outubro de 2025' },
+    { value: '2025-10-30', text: 'quinta-feira, 30 de outubro de 2025' },
+    { value: '2025-10-31', text: 'sexta-feira, 31 de outubro de 2025' }
+];
 
+let bookings = [];
